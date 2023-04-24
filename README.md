@@ -4,7 +4,7 @@ Cieszę się, że tu jesteś! W tym repozytorium znajdziesz wiele interesującyc
 
 ## Projekty
 
-Chociaż nie mam jeszcze dużej wiedzy z języka PHP, bardzo mnie ciekawi i jestem aktywnie w trakcie jego nauki. Staram się rozwijać swoje umiejętności poprzez tworzenie projektów, czytanie dokumentacji oraz korzystanie z różnych źródeł nauki. Mam nadzieję, że w miarę postępującego czasu, będę miał okazję podzielić się z Wami swoimi projektami napisanymi w języku PHP.
+Zajmuję się językiem PHP od około roku hobbistycznie. To wspaniały język, który pozwala mi na tworzenie dynamicznych stron internetowych i aplikacji internetowych. Ciągle rozwijam swoje umiejętności w tej dziedzinie i eksperymentuję z różnymi technologiami, aby tworzyć coraz bardziej zaawansowane projekty. 
 
 | Nazwa projektu | Opis | Link do repozytorium |
 | --- | --- | --- |
